@@ -1,0 +1,38 @@
+{
+  "name": "svg-images",
+  "version": "1.0.0",
+  "description": "Extract Images from SVG file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "svg-images",
+    "svg-to-images",
+    "svg images",
+    "svg to images",
+    "b64",
+    "base64",
+    "nodejs",
+    "node",
+    "image",
+    "base64-image",
+    "base64-to-image",
+    "base64 image",
+    "base64 to image",
+    "decoder"
+  ],  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riteshgandhi/svg-images"
+  },
+  "author": "Ritesh Gandhi",
+  "contributors": [
+    "Ritesh Gandhi <ritesh.j.gandhi@gmail.com> (https://github.com/riteshgandhi)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "b64-to-image": "^1.0.2"
+  }
+}
